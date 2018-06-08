@@ -1,2 +1,5 @@
-# flutter-sample
-flutter sample code
+# setup
+see: https://flutter.io/setup-macos/
+
+- Get the Flutter SDK
+
